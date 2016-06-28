@@ -18,3 +18,4 @@ for x in sarr1:
     b += x
 print(b)
 
+
